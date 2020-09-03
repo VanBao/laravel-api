@@ -1,0 +1,97 @@
+.img-preview {
+
+}
+
+.table-bordered th {
+    background: #1b1a2708;
+}
+
+.table-bordered th, .table-bordered td {
+    border: none !important;
+}
+
+.icon-box {
+    position: absolute;
+    right: 5px;
+    top: 30px;
+    font-size: 100px;
+}
+
+.form-control[readonly] {
+    background: #f7f7f7 !important;
+}
+
+.select2-results__option {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.btn-remove-image {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+
+#ServiceBooking .kt-notification .kt-notification__item:after {
+    content: "";
+}
+
+.modal-form .select2.select2-container.select2-container--default {
+    width: 100% !important;
+}
+
+
+.accordion.accordion-toggle-arrow .card .card-header .card-title.collapsed:after {
+    content: "";
+}
+
+.kt-widget.kt-widget--users .kt-widget__item {
+    padding: 15px;
+}
+
+
+.form-send-to .select2.select2-container.select2-container--default {
+    display: block;
+}
+
+.select-action {
+    border: 1px solid #e2e5ec;
+    padding: 5px 10px;
+}
+
+[v-cloak] {
+    display: none
+}
+
+.note-editor {
+    position: relative !important;
+}
+
+.note-toolbar.panel-heading {
+    position: absolute !important;
+    width: 100% !important;
+}
+
+.note-editor.note-frame .note-editing-area {
+    padding-top: 50px !important;
+}
+
+.input-quantity {
+    text-align: center;
+    border: none;
+    background: rgba(0, 0, 0, 0);
+    width: 45px;
+}
+
+.result-field {
+    display: flex;
+}
+
+.result-field span{
+    flex-basis: 50%;
+    width: 50%;
+}
+
+/*.kt-widget.kt-widget--users .kt-widget__item:first {*/
+/*}*/

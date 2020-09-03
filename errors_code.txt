@@ -1,0 +1,10 @@
+{
+    "LOGIN_FAILED": 1, // Đăng nhập thất bại, sai tài khoản hoặc mật khẩu
+    "USER_NOT_EXISTS": 2, // Đổi mật khẩu nhưng không tồn tại email này
+    "CODE_INVALID": 3, // Code đổi mật khẩu không chính xác
+    "UNAUTHENTICATED": 8,
+    "ValidationException": 10, // Input không hợp
+    "NotFoundHttpException": 11,lệ // Không tìm thấy đường dẫn
+    "MethodNotAllowedHttpException": 12, // Method sai
+    "OTHER_ERROR": 20 // Lỗi khác
+}
